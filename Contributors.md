@@ -83,6 +83,7 @@
 - [Hayden Sprinkle](https://github.com/haydensprinkle)
 - [Jayden Tweedie](https://github.com/jgregorytweedie)
 - [caharalamm jeje](https://github.com/caharalamm)
+- [Brian Y](https://github.com/briany9)
 - [Karim Chanane](https://github.com/HyperActiveHub)
 - [Wadson Vaval](https://github.com/Wadprog)
 - [Adnan Ahmed Khan](https://github.com/adnan-repo)
